@@ -16,8 +16,7 @@
 Run these commands:
 
 ```
-git clone {url}
-yarn
+docker-compose -f docker-compose.yml up
 yarn start:dev
 ```
 
